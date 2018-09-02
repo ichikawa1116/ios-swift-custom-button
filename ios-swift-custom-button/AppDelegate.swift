@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ios-swift-custom-button
 //
-//  Created by Manami Ichikawa on 2018/09/02.
+//  Created on 2018/09/02.
 //  Copyright © 2018 Manami Ichikawa. All rights reserved.
 //
 
